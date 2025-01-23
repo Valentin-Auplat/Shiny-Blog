@@ -1,0 +1,10 @@
+
+.btn-primary {
+  background-color: #007bff !important;  /* Remplace par la couleur souhaitée */
+  border-color: #007bff !important;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3 !important;  /* Couleur lors du survol */
+  border-color: #0056b3 !important;
+}
